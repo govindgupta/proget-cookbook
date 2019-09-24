@@ -6,5 +6,5 @@ proget_server 'proget' do
   email_address 'example@example.com'
   full_name 'Example'
   version '4.4.1.30'
-  use_integrated_web_server false
+  use_integrated_web_server true
 end
